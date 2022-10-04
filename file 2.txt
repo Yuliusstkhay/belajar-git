@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 awal 3
+=======
+awal
+>>>>>>> parent of 37a36c2 (awal 2)
